@@ -1,0 +1,17 @@
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\bin\Debug\Windows SQL Test Application.exe.config
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\bin\Debug\Windows SQL Test Application.exe
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\bin\Debug\Windows SQL Test Application.pdb
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsApplication.frmMain.resources
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsSQLTestApplication.Properties.Resources.resources
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\obj\Debug\Windows SQL Test Application.exe
+D:\My Documents\Visual Studio 2013\Projects\SQL Test Application\WindowsApplication\obj\Debug\Windows SQL Test Application.pdb
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\bin\Debug\Windows SQL Test Application.exe.config
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\obj\Debug\Windows SQL Test Application.exe
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\obj\Debug\Windows SQL Test Application.pdb
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\bin\Debug\Windows SQL Test Application.exe
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\bin\Debug\Windows SQL Test Application.pdb
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsApplication.csprojResolveAssemblyReference.cache
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsApplication.frmMain.resources
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsSQLTestApplication.Properties.Resources.resources
+S:\DAL\IT\Visual Studio Projects\SQL Test Application\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.Cache
